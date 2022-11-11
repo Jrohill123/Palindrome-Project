@@ -1,0 +1,7 @@
+Sore Was I ere I Saw Eros is a palindrome
+Too hot to hoot is a palindrome
+This is a palindrome program is not a palindrome
+Tuna nut is a palindrome
+Anne I stay a day at Sienna is a palindrome
+I love to code is not a palindrome
+Noel sees Leo is a palindrome
